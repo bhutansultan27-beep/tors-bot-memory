@@ -75,6 +75,14 @@
   },
   {
     "role": "assistant",
-    "content": "D\u00e9j\u00e0 vu again!\n\nIt seems we've entered another loop of conversations! Since we've already had a few \"hi\"s earlier, I'll try to mix things up a bit.\n\nLet's play a game! I'll start by saying a random word, and then you say a word that is associated with the previous word. We can keep going back and forth as long as you'd like!\n\nHere's my first word: Sunshine\n\nYour turn!"
+    "content": "D\u00e9j\u00e0 vu again! You're bringing us back to the start of our conversation!\n\nSince we've already had a few loops of \"Hi\"s, I'd love to break the cycle and explore some new topics with you, Mateo! What are your hobbies or interests? Do you have any favorite books, movies, or TV shows?\n\nLet's create a fresh conversation and see where it takes us!"
+  },
+  {
+    "role": "user",
+    "content": "Hi"
+  },
+  {
+    "role": "assistant",
+    "content": "Mateo! You're at it again!\n\nI think we've had enough loops of \"Hi\"s for now. Let's try something new! What do you say to starting a new topic or exploring a specific interest? Maybe we can discuss:\n\nA fascinating scientific concept\nA popular book or movie series\nA hobby or activity that brings you joy\n\nChoose one, and let's start fresh!\n\n(And don't worry, I won't hold the \"Hi\"s against you)"
   }
 ]
