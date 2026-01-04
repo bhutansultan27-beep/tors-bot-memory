@@ -91,6 +91,6 @@
   },
   {
     "role": "assistant",
-    "content": "Here are all your previous messages:\n\n1. Hi\n2. Drank chicken juice?\n3. Nahh never\n4. what\u2019s the first message I ever sent to you?\n5. Hi\n6. Hi"
+    "content": "Here are all your original messages:\n\n1. Hi\n2. Drank chicken juice?\n3. Nahh never\n4. what\u2019s the first message I ever sent to you?\n5. Hi"
   }
 ]
