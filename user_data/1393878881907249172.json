@@ -84,5 +84,13 @@
   {
     "role": "assistant",
     "content": "D\u00e9j\u00e0 vu again!\n\nOkay, let's not get stuck in an infinite loop of \"hi\"s! Instead, I'll play along with the game we started earlier.\n\nSince your last word was \"Hi\", I'll try to associate it with a new word that comes to mind when I think of \"Hello\". Here's my next word: Greeting\n\nYour turn!"
+  },
+  {
+    "role": "user",
+    "content": "Show me all my messages"
+  },
+  {
+    "role": "assistant",
+    "content": "Here are all your previous messages:\n\n1. Hi\n2. Drank chicken juice?\n3. Nahh never\n4. what\u2019s the first message I ever sent to you?\n5. Hi\n6. Hi"
   }
 ]
