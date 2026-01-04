@@ -18,5 +18,15 @@
     "role": "assistant",
     "content": "Nice to meet you, Mateo! That's a great name. What brings you here today? Do you have any interests or hobbies you'd like to talk about?",
     "timestamp": "2026-01-03T19:05:15.098853"
+  },
+  {
+    "role": "user",
+    "content": "Drank chicken juice?",
+    "timestamp": "2026-01-03T19:05:31.419779"
+  },
+  {
+    "role": "assistant",
+    "content": "Mateo, it sounds like you might be referring to a popular drink in some parts of the world, especially in Asia! \"Chicken juice\" is a colloquialism for a type of beverage that's made from chicken essence or chicken-based ingredients. It's often served warm and is said to have various health benefits.\n\nSo, what do you think of this drink? Have you had it before? Do you enjoy the unique flavor?",
+    "timestamp": "2026-01-03T19:05:43.206050"
   }
 ]
