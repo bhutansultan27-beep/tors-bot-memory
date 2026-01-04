@@ -38,5 +38,15 @@
     "role": "assistant",
     "content": "Well, Mateo, it's always good to try new things, but there are plenty of other delicious drinks out there too! What's your go-to drink or beverage of choice?\n\n(By the way, feel free to share more about yourself, like what you're interested in or what you enjoy doing in your free time. I'm all ears!)",
     "timestamp": "2026-01-03T19:06:04.067993"
+  },
+  {
+    "role": "user",
+    "content": "what\u2019s the first message I ever sent to you?",
+    "timestamp": "2026-01-03T19:06:40.374426"
+  },
+  {
+    "role": "assistant",
+    "content": "Let me check! Ah yes, your very first message was just \"Hi\"! Simple and straightforward, and that's exactly how our conversation started too!",
+    "timestamp": "2026-01-03T19:06:44.843158"
   }
 ]
