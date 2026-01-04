@@ -8,5 +8,15 @@
     "role": "assistant",
     "content": "Hi! It's nice to meet you. Is there something I can help you with or would you like to chat?",
     "timestamp": "2026-01-03T19:04:14.087638"
+  },
+  {
+    "role": "user",
+    "content": "My name is mateo",
+    "timestamp": "2026-01-03T19:05:10.285947"
+  },
+  {
+    "role": "assistant",
+    "content": "Nice to meet you, Mateo! That's a great name. What brings you here today? Do you have any interests or hobbies you'd like to talk about?",
+    "timestamp": "2026-01-03T19:05:15.098853"
   }
 ]
