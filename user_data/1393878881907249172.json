@@ -116,5 +116,13 @@
   {
     "role": "assistant",
     "content": "Yay!\n\nLet's play a game that's both fun and challenging. Here are some options:\n\n1. **Word Chain**: We take turns saying a word that starts with the last letter of the previous word.\n2. **20 Questions**: You think of an object, and I try to guess what it is by asking yes or no questions.\n3. **Hangman**: I think of a phrase or sentence, and you try to guess it by guessing letters.\n4. **Would You Rather**: I give you two options, and you choose which one you prefer.\n\nWhich game would you like to play?"
+  },
+  {
+    "role": "user",
+    "content": "20 questions"
+  },
+  {
+    "role": "assistant",
+    "content": "Let's start playing 20 Questions!\n\nYou think of an object, and I'll try to guess what it is by asking yes or no questions. Remember, you can answer with just a \"yes\" or \"no\", and I'll try to figure out the object based on your responses.\n\nHere's my first question:\n\n1. Is the object you're thinking of something that you can hold in your hand?\n\n(Please respond with a simple \"yes\" or \"no\")"
   }
 ]
