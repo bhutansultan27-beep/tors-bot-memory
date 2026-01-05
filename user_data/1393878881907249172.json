@@ -124,5 +124,13 @@
   {
     "role": "assistant",
     "content": "Let's start playing 20 Questions!\n\nYou think of an object, and I'll try to guess what it is by asking yes or no questions. Remember, you can answer with just a \"yes\" or \"no\", and I'll try to figure out the object based on your responses.\n\nHere's my first question:\n\n1. Is the object you're thinking of something that you can hold in your hand?\n\n(Please respond with a simple \"yes\" or \"no\")"
+  },
+  {
+    "role": "user",
+    "content": "Yes"
+  },
+  {
+    "role": "assistant",
+    "content": "That helps narrow it down!\n\nHere's my next question:\n\n2. Is the object you're thinking of man-made (created by humans)?\n\n(Please respond with a simple \"yes\" or \"no\")"
   }
 ]
