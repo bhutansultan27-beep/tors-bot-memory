@@ -140,5 +140,13 @@
   {
     "role": "assistant",
     "content": "Got it!\n\nNext question:\n\n3. Does the object you're thinking of have buttons or controls that you can press to interact with it?\n\n(Please respond with a simple \"yes\" or \"no\")"
+  },
+  {
+    "role": "user",
+    "content": "No"
+  },
+  {
+    "role": "assistant",
+    "content": "That helps rule out some possibilities.\n\nNext question:\n\n4. Is the object you're thinking of used for personal grooming or hygiene (e.g., toothbrush, hairbrush, etc.)?\n\n(Please respond with a simple \"yes\" or \"no\")"
   }
 ]
