@@ -108,5 +108,13 @@
   {
     "role": "assistant",
     "content": "D\u00e9j\u00e0 vu again... and again... and again!\n\nI think it's time to mix things up! How about we try something new?\n\nWould you like to play a game, have a fun conversation, or learn something new? Let me know, and I'll do my best to make it happen!"
+  },
+  {
+    "role": "user",
+    "content": "Yes let\u2019s play a game"
+  },
+  {
+    "role": "assistant",
+    "content": "Yay!\n\nLet's play a game that's both fun and challenging. Here are some options:\n\n1. **Word Chain**: We take turns saying a word that starts with the last letter of the previous word.\n2. **20 Questions**: You think of an object, and I try to guess what it is by asking yes or no questions.\n3. **Hangman**: I think of a phrase or sentence, and you try to guess it by guessing letters.\n4. **Would You Rather**: I give you two options, and you choose which one you prefer.\n\nWhich game would you like to play?"
   }
 ]
