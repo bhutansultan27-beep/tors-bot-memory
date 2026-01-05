@@ -132,5 +132,13 @@
   {
     "role": "assistant",
     "content": "That helps narrow it down!\n\nHere's my next question:\n\n2. Is the object you're thinking of man-made (created by humans)?\n\n(Please respond with a simple \"yes\" or \"no\")"
+  },
+  {
+    "role": "user",
+    "content": "Yes"
+  },
+  {
+    "role": "assistant",
+    "content": "Got it!\n\nNext question:\n\n3. Does the object you're thinking of have buttons or controls that you can press to interact with it?\n\n(Please respond with a simple \"yes\" or \"no\")"
   }
 ]
